@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "ano": 2026,
+ "turno": 2,
+ "offices": [
+  {
+   "codigo": 1,
+   "nome": "Presidente",
+   "eleicao": "6258"
+  },
+  {
+   "codigo": 3,
+   "nome": "Governador",
+   "eleicao": "6260"
+  }
+ ],
+ "scopes": [
+  "br",
+  "ac",
+  "al",
+  "am",
+  "ap",
+  "ba",
+  "ce",
+  "df",
+  "es",
+  "go",
+  "ma",
+  "mg",
+  "ms",
+  "mt",
+  "pa",
+  "pb",
+  "pe",
+  "pi",
+  "pr",
+  "rj",
+  "rn",
+  "ro",
+  "rr",
+  "rs",
+  "sc",
+  "se",
+  "sp",
+  "to",
+  "zz"
+ ],
+ "candidates": {
+  "1": {
+   "90": "CANDIDATO A",
+   "91": "CANDIDATO B"
+  },
+  "3": {
+   "90": "CANDIDATO A",
+   "91": "CANDIDATO B"
+  }
+ },
+ "params": {
+  "stall_threshold_minutes": 5,
+  "gap_seconds": 180,
+  "polling_interval_seconds": 60
+ },
+ "nota": "Medidor neutro: registra o que foi publicado e quando. Não infere causas. Horários em UTC."
+}
